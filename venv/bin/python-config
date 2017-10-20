@@ -1,4 +1,4 @@
-#!/Users/samjam/Code/flask-demo/venv/bin/python
+#!/Users/samjam/Code/flask-funfun/venv/bin/python
 
 import sys
 import getopt
